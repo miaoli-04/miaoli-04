@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! I am Miao
+I am a MSCAPP candidate at the University of Chicago and I am interested in using data and algorithm to solve real-life problems in various fields, including healthcare and marketing.
 <!--
 **miaoli-04/miaoli-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
