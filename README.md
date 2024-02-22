@@ -9,10 +9,10 @@ Here are some of my previous projects:
 
 **Marketing**
 - [News scraper](https://github.com/miaoli-04/news_scraping): Scraping news and podcast related to Harris School of Public Policy (web scraper)
-- Currently working on: Trip Advisor Hotel Reviews (NLP)
 
 **Others**
 - [CappyFoodies](https://github.com/uchicago-capp122-winter23/30122-project-cappyfoodies): Food accessibility and Yelp review for restaurants in Cook County, IL (data visualization, interactive dashboard)
+- [AI's impact on employment landscape](https://github.com/miaoli-04/AI_impact_in_employment_NLP): Using NLP to explore how AI is impacting job market and extracting actionable recommendations from 200k unstructured new articles
 <!--
 **miaoli-04/miaoli-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
