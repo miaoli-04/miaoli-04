@@ -8,9 +8,11 @@ Here are some of my previous projects:
 - [High Risk Pregnancy in Mississippi Delta](https://github.com/miaoli-04/High_Risk_Pregnancy_Prediction): Predicting high-risk pregnancy with survey data (logistic regression, GBM, random forest)
 
 **Marketing**
+- [Digital Market Analysis for Red Wine in US](https://github.com/miaoli-04/Digital-Market-Analysis-for-Wine): Leveraging NLP and marketing algorithms to draw insight from red wine market using Wine Enthusiast and Vivino Data (Sentiment Analysis, Aggregated Conjoint Analysis)
 - [News scraper](https://github.com/miaoli-04/news_scraping): Scraping news and podcast related to Harris School of Public Policy (web scraper)
 
 **Others**
+- [Project with Chicago Metropolitan Agency for Planning](https://github.com/dsi-clinic/2024-winter-cmap): Built automatic model optimization and evaluation pipline with Wandb
 - [CappyFoodies](https://github.com/uchicago-capp122-winter23/30122-project-cappyfoodies): Food accessibility and Yelp review for restaurants in Cook County, IL (data visualization, interactive dashboard)
 - [AI's impact on employment landscape](https://github.com/miaoli-04/AI_impact_in_employment_NLP): Using NLP to explore how AI is impacting job market and extracting actionable recommendations from 200k unstructured new articles
 <!--
